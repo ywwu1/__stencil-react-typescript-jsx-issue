@@ -1,5 +1,5 @@
 ### Repository demonstrating stencil `JSX.IntrinsicElements` issue.
 
-##setup
+## setup
 1. yarn install
 2. yarn start
